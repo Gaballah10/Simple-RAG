@@ -1,6 +1,6 @@
 A minimal Retrieval-Augmented Generation pipeline that answers questions from your own PDF documents.
 
-![Simple RAG diagram]([docs/simple_rag_linkedin.png](https://github.com/Gaballah10/Simple-RAG/blob/main/simple_rag_linkedin.png))
+![Simple RAG diagram]([https://github.com/Gaballah10/Simple-RAG/blob/main/simple_rag_linkedin.png])
 
 ## How it works
 
